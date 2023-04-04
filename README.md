@@ -20,5 +20,5 @@ I'm currently doing challenges using:
 
 
 ## Future plans for this repository
-I intend to invest more time in these Codewars challenges and progress in kyu difficulty. I'm currently at level 7, and I'm planning to progress into level 5.
-I'm also planning on investing in TypeScript and SQL in the near future.
+I intend to invest more time in these Codewars challenges and progress in kyu difficulty. I'm currently at level 6, and I'm planning to progress into level 5.
+I'll be doing some Codewars challenges in TypeScript and SQL in the near future.
