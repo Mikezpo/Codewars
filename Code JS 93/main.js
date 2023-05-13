@@ -1,4 +1,4 @@
-// N-th Power
+// N-th Powerp
 
 // This kata is from check py.checkio.org
 
